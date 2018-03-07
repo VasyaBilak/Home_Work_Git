@@ -50,3 +50,10 @@ p{
 .Block p{
     color: crimson;
 }
+input{
+    background-color: cornsilk;
+    padding-left: 20px;
+}
+.Form{
+    padding-right: 10px;
+}
